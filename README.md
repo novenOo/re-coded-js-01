@@ -17,4 +17,8 @@ Use jQuery to update the text in the `<div>` element on `index.html` every time 
     * Type `subl .` to open the current directory (`.`, which is the `re-coded-js-01/` directory) in Sublime Text. If you are still using the IDE, either manually navigate to the cloned directory in the File Tree or try typing `atom .` instead of `subl .`
 - Code your solution in `js/simple_data_binding.js`, and keep `index.html` open in Chrome. You can simply refresh the page in Chrome to test out the changes you make in `js/simple_data_binding.js`. Remember to keep the Chrome JS console open to watch out for JS errors!
 
+## When you are finished
+- Add, commit, and push all of your changes to your forked repository on GitHub.
+- Submit a Pull Request against my repository.
+
 # Yalla!
