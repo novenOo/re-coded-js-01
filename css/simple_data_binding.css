@@ -12,4 +12,6 @@ body {
 
 #myDiv {
   font-size: 4em;
+  white-space: pre-wrap; /*to render newlines when i press enter*/
+
 }
